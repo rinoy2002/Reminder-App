@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="swingx-1.6.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/date picker/swingx-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/date picker/swingx-1.6.1.jar!/org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

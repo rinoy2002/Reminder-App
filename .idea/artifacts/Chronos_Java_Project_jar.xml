@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Chronos-Java-Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Chronos_Java_Project_jar</output-path>
+    <root id="archive" name="Chronos-Java-Project.jar">
+      <element id="module-output" name="Chronos-Java-Project" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/date picker/swingx-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/date picker/swingx-1.6.1.jar" path-in-jar="/org/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Sqlite Jar File/sqlite-jdbc-3.8.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
